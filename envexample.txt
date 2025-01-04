@@ -1,0 +1,8 @@
+BASE_URL='https://json.geoapi.pt/cp'
+
+SERVER = '#######'
+DATABASE_BASELINE = 'codigo_postal_desafio'
+PATH = '#######'
+FILE = 'cp7_data.csv'
+EXCEL = '##############/data/Base_p_codigo_postal.xlsx'
+param_codigo = 'p_codigo_postal'
