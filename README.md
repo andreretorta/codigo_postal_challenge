@@ -147,6 +147,7 @@ OBS.: Ficou com 8 registros sem serem identificados.
 
 
   **Insert_Log:**
+  
 CREATE PROCEDURE [dbo].[p_Insert_Log] (@id_load bigint, @what nvarchar(128), @obs nvarchar, @dt_ini datetime, @dt_fim datetime, @n_registos_ini bigint, @n_registos_fim bigint) as
 BEGIN
     -- Insere na tabela de registro
