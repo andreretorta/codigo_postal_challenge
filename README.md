@@ -131,6 +131,8 @@ Após a View:
 ![image](https://github.com/user-attachments/assets/003a7696-6989-452a-85cf-2d64e8636b44)
 
 OBS.: Ficou com 8 registros sem serem identificados.
+![image](https://github.com/user-attachments/assets/63b10d0c-8c67-4d00-8763-e0a193d33cee)
+
 
 ### Passo 4: Monitoramento e Automatização
 #### Tabelas de Suporte
